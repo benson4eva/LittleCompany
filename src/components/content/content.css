@@ -1,0 +1,11 @@
+#user-email::placeholder {
+  color: white;
+  /* -webkit-text-stroke: 5px solid white; */
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
